@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a third year undergraduate student from [College of Computer Science and Technology](https://it.xju.edu.cn/), [Xinjiang University](https://www.xju.edu.cn/). My research interest includes Computer Vision, Robust Perception, Edge Intelligence, Embodied Systems.
 
-You can find my CV here: [Jie Ma's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Jie Ma's Curriculum Vitae](../assets/resume.pdf).
 
 [Email](mailto:majie@stu.xju.edu.cn) / [Github](https://github.com/Emma11OVO) / [Wechat](../images/wechat.jpg)
 
